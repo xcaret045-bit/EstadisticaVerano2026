@@ -1,0 +1,26 @@
+# Diabetes Prediction Dataset
+
+The **`diabetes_prediction_dataset.csv`** dataset contains **medical and demographic information** about patients, along with their **diabetes status** (positive or negative).
+
+It includes several relevant features that are commonly associated with diabetes risk, such as:
+
+- **Age**
+- **Gender**
+- **Body Mass Index (BMI)**
+- **Hypertension**
+- **Heart disease**
+- **Smoking history**
+- **HbA1c level**
+- **Blood glucose level**
+
+## Purpose
+
+This dataset is designed for developing **machine learning models** capable of predicting the likelihood of diabetes based on a patient's medical history and demographic characteristics.
+
+## Potential Applications
+
+- 🩺 Early diabetes risk detection
+- 🤖 Binary classification using machine learning
+- 📊 Exploratory data analysis (EDA)
+- 📈 Feature importance and model interpretation
+- 🔬 Healthcare research and predictive analytics
