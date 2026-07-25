@@ -1,0 +1,45 @@
+# 📚 Student Performance Dataset
+
+## 📝 Description
+
+This dataset provides a comprehensive overview of the factors that may influence students' academic performance on exams. It includes information related to study habits, school attendance, family environment, access to educational resources, and personal characteristics. These variables can be used to analyze patterns, identify key predictors of academic success, and develop statistical or machine learning models for educational research.
+
+---
+
+## 📊 Dataset Variables
+
+| **Variable** | **Description** |
+|--------------|-----------------|
+| **Hours_Studied** | Number of hours spent studying per week. |
+| **Attendance** | Percentage of classes attended. |
+| **Parental_Involvement** | Level of parental involvement in the student's education *(Low, Medium, High).* |
+| **Access_to_Resources** | Availability of educational resources *(Low, Medium, High).* |
+| **Extracurricular_Activities** | Participation in extracurricular activities *(Yes, No).* |
+| **Sleep_Hours** | Average number of hours of sleep per night. |
+| **Previous_Scores** | Scores obtained in previous examinations. |
+| **Motivation_Level** | Student's level of motivation *(Low, Medium, High).* |
+| **Internet_Access** | Availability of internet access at home *(Yes, No).* |
+| **Tutoring_Sessions** | Number of tutoring sessions attended per month. |
+| **Family_Income** | Family income level *(Low, Medium, High).* |
+| **Teacher_Quality** | Perceived quality of teachers *(Low, Medium, High).* |
+| **School_Type** | Type of school attended *(Public, Private).* |
+| **Peer_Influence** | Influence of peers on academic performance *(Positive, Neutral, Negative).* |
+| **Physical_Activity** | Average number of hours of physical activity per week. |
+| **Learning_Disabilities** | Presence of learning disabilities *(Yes, No).* |
+| **Parental_Education_Level** | Highest educational level attained by parents *(High School, College, Postgraduate).* |
+| **Distance_from_Home** | Distance between home and school *(Near, Moderate, Far).* |
+| **Gender** | Student's gender *(Male, Female).* |
+| **Exam_Score** | Final exam score obtained by the student. |
+
+---
+
+## 🎯 Objective
+
+The main purpose of this dataset is to explore how academic, personal, and socioeconomic factors affect students' exam performance. It can be used for:
+
+- 📈 Exploratory Data Analysis (EDA)
+- 📊 Statistical modeling
+- 🤖 Machine Learning applications
+- 📚 Educational research
+- 🔍 Predictive analytics
+```
